@@ -1,6 +1,6 @@
-baseURL = "http://yourwebsite.com/"
+baseURL = "https://nishraptor.github.io/"
 languageCode = "en-us"
-title = "My Awesome Site"
+title = "Nishant's Blog"
 canonifyURLs = true
 enableEmoji = true
 
