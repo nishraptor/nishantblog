@@ -1,0 +1,31 @@
+baseURL = "nishraptor.github.io"
+languageCode = "en-us"
+title = "Nishant's Blog"
+canonifyURLs = true
+enableEmoji = true
+googleAnalytics = "UA-XXXXXX-1"
+
+theme = "pristine"
+
+[params]
+    portrait = "img/portrait.jpg"
+
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "All Articles"
+  url = "/all/"
+  weight = 2
+
+[[params.social]]
+    title = "Email"
+    url = "mailto:nmysore@ucsd.edu"
+
+[[params.social]]
+    title = "Github"
+    url = "https://github.com/nishraptor"
+
