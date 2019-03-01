@@ -1,0 +1,28 @@
+baseURL = "http://yourwebsite.com/"
+languageCode = "en-us"
+title = "My Awesome Site"
+canonifyURLs = true
+enableEmoji = true
+
+theme = "pristine"
+
+[params]
+    portrait = "img/portrait.jpg"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "All Articles"
+  url = "/all/"
+  weight = 2
+
+[[params.social]]
+    title = "Email"
+    url = "mailto:john@doe.com"
+
+[[params.social]]
+    title = "Github"
+    url = "https://github.com/johndoe"
