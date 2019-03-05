@@ -21,8 +21,8 @@ theme = "pristine"
 
 [[params.social]]
     title = "Email"
-    url = "mailto:john@doe.com"
+    url = "mailto:nmysore@ucsd.edu"
 
 [[params.social]]
     title = "Github"
-    url = "https://github.com/johndoe"
+    url = "https://github.com/nishraptor"
